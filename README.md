@@ -1,4 +1,4 @@
-# ![Elementary Custom Donate](icon.png)
+# ![The Kaktus Pack](icon.png)
 Also Referred to as Kaktuspack
 ## About
 A Minecraft Texture Pack with random stuff.

@@ -1,4 +1,4 @@
-# ![The Kaktus Pack](icon.png)
+# ![The Kaktus Pack](pack.png)
 Also Referred to as Kaktuspack
 ## About
 A Minecraft Texture Pack with random stuff.

@@ -1,5 +1,5 @@
-# ![The Kaktus Pack](icon.png)
-Also Referred to as Kaktuspack
+# ![The Kaktus Pack GX](logo_kp-gx.png)
+Also Referred to as "The Kaktus Pack" and "Kaktuspack"
 ## About
 A Minecraft Texture Pack with random stuff.
 ## Installation
